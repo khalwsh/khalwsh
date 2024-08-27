@@ -21,7 +21,7 @@ Faculty of Electronic Engineering, Menoufia University
 
 ## Skills
 
-- **Programming Languages:** C/C++, C#, Python
+- **Programming Languages:** C/C++, C#, Python , Java
 - **Development Tools:** Git, GitHub, SQL Server, HTML, CSS, Linux
 - **Concepts:** Data Structures, Algorithms, Object-Oriented Programming, Design Patterns, Problem Solving
 - **Specializations:** Game Development
