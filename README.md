@@ -30,7 +30,7 @@ Faculty of Electronic Engineering, Menoufia University
 
 ## Volunteering Experience
 
-**Development Team Member**  
+**Development Team Leader**  
 ACM ICPC Menofia Community  
 - Trained freshmen in problem-solving skills and algorithmic thinking.
 - Coached students for the Egyptian Collegiate Programming Contest (ECPC).
