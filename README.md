@@ -24,7 +24,7 @@ Faculty of Electronic Engineering, Menoufia University
 
 - **ECPC Finalist 2023**
 - **ACPC Finalist 2024**
-- **ECPC 2024 Qualifications Judge**
+- **ECPC 2024 Qualifications Judge Day 3**
 - **Expert on Codeforces**: Solved 4000+ algorithmic problems
 - **Top 2% on LeetCode**: Rated as Knight
 
