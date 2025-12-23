@@ -14,7 +14,7 @@
 ###
 
 <p align="left">
-  • <strong>ECPC'25 Gold Medalist</strong> <br> • <strong>ACPC Finalist</strong> <br>• <strong>Candidate Master</strong> on <a href="https://codeforces.com/profile/khalwsh" target="_blank">Codeforces</a><br><br>
+  • <strong>ICPC Finalist</strong> <br> • <strong>ACPC Bronze Medalist</strong>  <br> • <strong>ECPC'25 Gold Medalist</strong> <br>• <strong>Candidate Master</strong> on <a href="https://codeforces.com/profile/khalwsh" target="_blank">Codeforces</a><br><br>
   💻 Passionate about <strong>algorithms, backend engineering, and system design</strong>.<br>
   🌱 Currently exploring <strong>Spring Boot</strong>, <strong>database design</strong>, and <strong>software architecture</strong>.<br>
 </p>
